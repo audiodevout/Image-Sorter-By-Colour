@@ -1,4 +1,7 @@
-Image Color Sorter
+Image Sorter by Colour
+Created by Atharva Gupta. 
+
+
 
 This script sorts images in a folder by their dominant colors. It groups images into categories like earthy, warm, bright, cool, and muted, then renames them in order based on these colors.
 
@@ -37,4 +40,4 @@ Works best with images that have clear color themes.
 
 You can change the color categories or number of dominant colors by editing the script.
 
-Created by Atharva Gupta. 
+
