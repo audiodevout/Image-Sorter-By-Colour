@@ -1,5 +1,6 @@
 Image Sorter by Colour
-Created by Atharva Gupta. 
+
+by audiodevout
 
 
 
